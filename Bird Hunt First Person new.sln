@@ -1,0 +1,51 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+
+Project("{E40B4FB1-614A-AB38-3609-3EE1963723A6}") = "Bird Hunt First Person new", "Assembly-CSharp-firstpass.csproj", "{B599DF4B-CB84-DE9B-2B49-7C0AC7130AA1}"
+EndProject
+Project("{E40B4FB1-614A-AB38-3609-3EE1963723A6}") = "Bird Hunt First Person new", "Assembly-CSharp.csproj", "{1C6F61CD-79F1-3D6A-4353-43FCB91BD183}"
+EndProject
+Project("{E40B4FB1-614A-AB38-3609-3EE1963723A6}") = "Bird Hunt First Person new", "Assembly-CSharp-Editor-firstpass.csproj", "{C107F4AB-BA26-3E53-77D4-1E396A2AF178}"
+EndProject
+Project("{E40B4FB1-614A-AB38-3609-3EE1963723A6}") = "Bird Hunt First Person new", "Assembly-UnityScript-firstpass.unityproj", "{F36CABEC-5CCB-CA73-94B3-AC89A75F5D19}"
+EndProject
+Project("{E40B4FB1-614A-AB38-3609-3EE1963723A6}") = "Bird Hunt First Person new", "Assembly-UnityScript.unityproj", "{5DF67C56-E447-B347-014C-C19452944543}"
+EndProject
+Project("{E40B4FB1-614A-AB38-3609-3EE1963723A6}") = "Bird Hunt First Person new", "Assembly-UnityScript-Editor-firstpass.unityproj", "{64CE3032-844E-E0D3-DA13-342CA5903840}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B599DF4B-CB84-DE9B-2B49-7C0AC7130AA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B599DF4B-CB84-DE9B-2B49-7C0AC7130AA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B599DF4B-CB84-DE9B-2B49-7C0AC7130AA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B599DF4B-CB84-DE9B-2B49-7C0AC7130AA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C6F61CD-79F1-3D6A-4353-43FCB91BD183}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C6F61CD-79F1-3D6A-4353-43FCB91BD183}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C6F61CD-79F1-3D6A-4353-43FCB91BD183}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C6F61CD-79F1-3D6A-4353-43FCB91BD183}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C107F4AB-BA26-3E53-77D4-1E396A2AF178}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C107F4AB-BA26-3E53-77D4-1E396A2AF178}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C107F4AB-BA26-3E53-77D4-1E396A2AF178}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C107F4AB-BA26-3E53-77D4-1E396A2AF178}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F36CABEC-5CCB-CA73-94B3-AC89A75F5D19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F36CABEC-5CCB-CA73-94B3-AC89A75F5D19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F36CABEC-5CCB-CA73-94B3-AC89A75F5D19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F36CABEC-5CCB-CA73-94B3-AC89A75F5D19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DF67C56-E447-B347-014C-C19452944543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DF67C56-E447-B347-014C-C19452944543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DF67C56-E447-B347-014C-C19452944543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DF67C56-E447-B347-014C-C19452944543}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64CE3032-844E-E0D3-DA13-342CA5903840}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64CE3032-844E-E0D3-DA13-342CA5903840}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64CE3032-844E-E0D3-DA13-342CA5903840}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64CE3032-844E-E0D3-DA13-342CA5903840}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal
